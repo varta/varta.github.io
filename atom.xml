@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[varta.github.io]]></title>
-  <link href="http://varta.github.com/atom.xml" rel="self"/>
-  <link href="http://varta.github.com/"/>
-  <updated>2013-04-07T02:22:54-07:00</updated>
-  <id>http://varta.github.com/</id>
+  <link href="http://varta.github.io/atom.xml" rel="self"/>
+  <link href="http://varta.github.io/"/>
+  <updated>2013-04-07T02:34:22-07:00</updated>
+  <id>http://varta.github.io/</id>
   <author>
     <name><![CDATA[varta]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Do the ski gloves fit?]]></title>
-    <link href="http://varta.github.com/blog/2013/04/07/do-the-ski-gloves-fit/"/>
+    <link href="http://varta.github.io/blog/2013/04/07/do-the-ski-gloves-fit/"/>
     <updated>2013-04-07T00:41:00-07:00</updated>
-    <id>http://varta.github.com/blog/2013/04/07/do-the-ski-gloves-fit</id>
+    <id>http://varta.github.io/blog/2013/04/07/do-the-ski-gloves-fit</id>
     <content type="html"><![CDATA[<h3 id="the-most-beautiful-equation-in-the-world-e-ipi--1--0">The most beautiful equation in the world $e ^{i\pi} + 1 = 0$</h3>
 <p>The astute will notice it is the Iron Man costume for -1.
 $$
@@ -25,7 +25,7 @@ e ^{i\pi} = -1
 $$</p>
 
 <h3 id="in-case-of-chemical-weaponage">In case of chemical weaponage</h3>
-<p><img class="top" src="http://varta.github.com/images/cancer_society-nytimes.jpg" width="200" title="&#34;Ueberbrain's Uebercat&#34; Uebercat" alt="&#34;Ueberbrain's Uebercat&#34; Uebercat" /></p>
+<p><img class="top" src="http://varta.github.io/images/cancer_society-nytimes.jpg" width="200" title="&#34;Ueberbrain's Uebercat&#34; Uebercat" alt="&#34;Ueberbrain's Uebercat&#34; Uebercat" /></p>
 
 <p><em>Image from <a href="http://scienceblogs.com/bioephemera/2008/08/10/ubercat/">scienceblogs</a>.</em></p>
 
@@ -42,7 +42,7 @@ $$</p>
 
 <h3 id="sparking-water-springs-in-france">Sparking water springs in France</h3>
 
-<p><a href="http://varta.github.com/docs/sparkling-water-springs-fr.tsv">These data</a> have proven to be an indispensible aid in <a href="http://www.cs.princeton.edu/courses/archive/spring10/cos424/slides/10-pca.pdf#page=7 Leon Bottou's slides for PCA from COS424">learning principal components analysis</a>.</p>
+<p><a href="http://varta.github.io/docs/sparkling-water-springs-fr.tsv">These data</a> have proven to be an indispensible aid in <a href="http://www.cs.princeton.edu/courses/archive/spring10/cos424/slides/10-pca.pdf#page=7 Leon Bottou's slides for PCA from COS424">learning principal components analysis</a>.</p>
 ]]></content>
   </entry>
   
