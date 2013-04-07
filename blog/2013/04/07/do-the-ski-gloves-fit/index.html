@@ -205,18 +205,19 @@ $$</p>
 </section>
 
 <section>
-<h1>Latest Tweets</h1>
-<ul id="tweets">
-    <li class="loading">Status updating&#8230;</li>
-</ul>
-<script type="text/javascript">
-    $.domReady(function(){
-	    getTwitterFeed("stratosaur", 4, false);
-	    });
-</script>
-<script src="/javascripts/twitter.js" type="text/javascript"> </script>
-
-<a href="http://twitter.com/stratosaur" class="twitter-follow-button" data-show-count="true">Follow @stratosaur</a>
+  <h1>Tweet Me a Haiku</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $(document).ready(function(){
+      getTwitterFeed("stratosaur", 5, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/stratosaur" class="twitter-follow-button" data-show-count="">Follow @stratosaur</a>
+  
 </section>
 
 
