@@ -82,7 +82,7 @@ MathJax.Hub.Config({
 <article role="article">
   
   <header>
-    <h1 class="entry-title">Category: Signal Processing</h1>
+    <h1 class="entry-title">Category: signal processing</h1>
     
   </header>
   
@@ -124,6 +124,22 @@ MathJax.Hub.Config({
     
   </ul>
 </section>
+
+<section>
+<h1>Latest Tweets</h1>
+<ul id="tweets">
+    <li class="loading">Status updating&#8230;</li>
+</ul>
+<script type="text/javascript">
+    $.domReady(function(){
+	    getTwitterFeed("stratosaur", 4, false);
+	    });
+</script>
+<script src="/javascripts/twitter.js" type="text/javascript"> </script>
+
+<a href="http://twitter.com/stratosaur" class="twitter-follow-button" data-show-count="true">Follow @stratosaur</a>
+</section>
+
 
 <section>
   <h1>GitHub Repos</h1>
@@ -173,6 +189,15 @@ MathJax.Hub.Config({
   
 
 
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id; js.async = true;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
 
 
