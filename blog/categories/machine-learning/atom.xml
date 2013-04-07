@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: machine learning | varta.github.io]]></title>
-  <link href="http://varta.github.com/blog/categories/machine-learning/atom.xml" rel="self"/>
-  <link href="http://varta.github.com/"/>
-  <updated>2013-04-07T02:22:54-07:00</updated>
-  <id>http://varta.github.com/</id>
+  <link href="http://varta.github.io/blog/categories/machine-learning/atom.xml" rel="self"/>
+  <link href="http://varta.github.io/"/>
+  <updated>2013-04-07T02:34:22-07:00</updated>
+  <id>http://varta.github.io/</id>
   <author>
     <name><![CDATA[varta]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Do the ski gloves fit?]]></title>
-    <link href="http://varta.github.com/blog/2013/04/07/do-the-ski-gloves-fit/"/>
+    <link href="http://varta.github.io/blog/2013/04/07/do-the-ski-gloves-fit/"/>
     <updated>2013-04-07T00:41:00-07:00</updated>
-    <id>http://varta.github.com/blog/2013/04/07/do-the-ski-gloves-fit</id>
+    <id>http://varta.github.io/blog/2013/04/07/do-the-ski-gloves-fit</id>
     <content type="html"><![CDATA[<h3 id="the-most-beautiful-equation-in-the-world-e-ipi--1--0">The most beautiful equation in the world $e ^{i\pi} + 1 = 0$</h3>
 <p>The astute will notice it is the Iron Man costume for -1.
 $$
