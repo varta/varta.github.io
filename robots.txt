@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://varta.github.io/varta/sitemap.xml 
+Sitemap: http://varta.github.com/sitemap.xml 
