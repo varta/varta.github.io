@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>varta.github.io</title><link href="https://varta.github.io/" rel="alternate"></link><link href="/atom.xml" rel="self"></link><id>https://varta.github.io/</id><updated>2014-12-21T21:00:00-08:00</updated><entry><title>Do the ski gloves fit?</title><link href="https://varta.github.io/blog/2014/12/21/do-the-ski-gloves-fit/" rel="alternate"></link><updated>2014-12-21T21:00:00-08:00</updated><author><name>satyavarta</name></author><id>tag:varta.github.io,2014-12-21:blog/2014/12/21/do-the-ski-gloves-fit/</id><summary type="html">&lt;h2&gt;The most beautiful equation in the world:&lt;/h2&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>varta.github.io</title><link>/</link><description>let teh codez hit the corez</description><atom:link href="/feeds/satyavarta.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 21 Dec 2014 21:00:00 -0800</lastBuildDate><item><title>Do the ski gloves fit?</title><link>/blog/2014/12/21/do-the-ski-gloves-fit/</link><description>&lt;h2&gt;The most beautiful equation in the world:&lt;/h2&gt;
 &lt;p&gt;&lt;span class="math"&gt;\(e^{i\pi} + 1 = 0\)&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;The astute will notice it is the Iron Man costume for -1.
 &lt;div class="math"&gt;$$e^{i\pi} = -1$$&lt;/div&gt;
@@ -51,4 +51,4 @@ qplot&lt;span class="p"&gt;(&lt;/span&gt;data &lt;span class="o"&gt;=&lt;/span&g
         "}); ";
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
-&lt;/script&gt;</summary></entry></feed>
+&lt;/script&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">satyavarta</dc:creator><pubDate>Sun, 21 Dec 2014 21:00:00 -0800</pubDate><guid>tag:,2014-12-21:blog/2014/12/21/do-the-ski-gloves-fit/</guid></item></channel></rss>
